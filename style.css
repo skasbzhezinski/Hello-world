@@ -1,4 +1,19 @@
+body {
+    background-color: darkslategray;
+}
+
+.main {
+    font-size: 24px;
+    font-weight: bolder;
+    color: black;
+
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
 p {
     padding: 10px;
-    background-color: lightblue;
+    background-color: rgb(159, 241, 217);
 }

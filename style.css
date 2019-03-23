@@ -16,3 +16,15 @@ p {
     background-color: #006633;
     text-align: center;
 }
+
+ol {
+    display: flex;
+} 
+
+li {
+    width: 10%;
+    background-color: crimson;
+    padding: 10px;
+    margin: 5px;
+    margin-left: 45px;
+}

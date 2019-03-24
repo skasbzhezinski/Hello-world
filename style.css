@@ -28,3 +28,17 @@ li {
     margin: 5px;
     margin-left: 45px;
 }
+
+a {
+    color: bisque;
+    text-decoration: none;
+}
+
+a:hover {
+    color: coral;
+}
+
+a:active,
+a:focus {
+    color: darkolivegreen;
+}

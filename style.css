@@ -15,10 +15,17 @@ p {
     margin-right: auto;
     background-color: #006633;
     text-align: center;
+    border: 6px solid #ffb266;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px #ffb266;
 }
 
 ol {
     display: flex;
+    padding: 5px;
+    border: 6px solid #ffb266;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px #ffb266;
 } 
 
 li {
@@ -27,4 +34,5 @@ li {
     padding: 10px;
     margin: 5px;
     margin-left: 45px;
+    border-radius: 25px;
 }

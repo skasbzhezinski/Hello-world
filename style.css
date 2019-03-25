@@ -37,3 +37,17 @@ li {
     margin-left: 45px;
     border-radius: 25px;
 }
+
+a {
+    color: bisque;
+    text-decoration: none;
+}
+
+a:hover {
+    color: coral;
+}
+
+a:active,
+a:focus {
+    color: darkolivegreen;
+}

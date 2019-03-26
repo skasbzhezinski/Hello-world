@@ -23,6 +23,7 @@ p {
 
 ol {
     display: flex;
+    flex-wrap: wrap;
     padding: 5px;
     border: 6px solid #ffb266;
     border-radius: 5px;
@@ -30,7 +31,7 @@ ol {
 } 
 
 li {
-    width: 10%;
+    width: 12%;
     background-color: crimson;
     padding: 10px;
     margin: 5px;
